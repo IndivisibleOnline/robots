@@ -1,0 +1,7 @@
+# robots.txt for http://www.indivisiblewestchester.org/
+
+
+User-agent: *
+Disallow: /
+Allow: /index.php
+Allow: /$
